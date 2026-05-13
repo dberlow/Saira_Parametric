@@ -7,4 +7,4 @@ Omnibus-Type Team SIL Open Font License 1.1
 
 ![Sample of Saira Parametric.](docs/_01.png "New Cross Axis Mapping")
 ![Sample of Saira Parametric.](docs/_02.png "New Cross Axis Mapping")
-![Sample of Saira Parametric.](docs/_03.png "New Cross Axis Mapping")
+![Sample of Saira Parametric.](docs/_04.png "New Cross Axis Mapping")
